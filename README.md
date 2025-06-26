@@ -33,7 +33,7 @@ Um clone do `neofetch` escrito em Rust - uma ferramenta de informações do sist
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/rustfetch.git
+git clone https://github.com/leandroFeitoza81/rustfetch.git
 cd rustfetch
 
 # Compile em modo release
